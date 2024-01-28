@@ -7,7 +7,7 @@ const dummyData = [{
     title: "Wash Car"
 }, {
     id: "02",
-    title: "Read a book"
+    title: "Go to car wash"
 
 },
 ];
